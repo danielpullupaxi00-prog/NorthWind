@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Danie\\Documents\\Tecnologias y Desarrollo Web\\NorthWind\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41E6FF-ABE3-48A2-A471-BDEF2B3DA5AF}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|c:\\users\\danie\\documents\\tecnologias y desarrollo web\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41E6FF-ABE3-48A2-A471-BDEF2B3DA5AF}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41E6FF-ABE3-48A2-A471-BDEF2B3DA5AF}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|c:\\users\\danie\\documents\\tecnologias y desarrollo web\\northwind\\northwind.sales.entities\\northwind.sales.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB41E6FF-ABE3-48A2-A471-BDEF2B3DA5AF}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\northwind.sales.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{51d8ca1e-4698-404c-a37b-a4a41603557b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Documents\\Tecnologias y Desarrollo Web\\NorthWind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "ToolTip": "C:\\Users\\Danie\\Documents\\Tecnologias y Desarrollo Web\\NorthWind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "RelativeToolTip": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:30:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Northwind.Sales.Entities",
+              "DocumentMoniker": "C:\\Users\\Danie\\Documents\\Tecnologias y Desarrollo Web\\NorthWind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
+              "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
+              "ToolTip": "C:\\Users\\Danie\\Documents\\Tecnologias y Desarrollo Web\\NorthWind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
+              "RelativeToolTip": "Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T17:22:28.436Z",
+              "EditorCaption": ""
             }
           ]
         }
