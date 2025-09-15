@@ -58,17 +58,17 @@
         public string ShipCountry { get; private set; }
         public string ShipPostalCode { get; private set; }
 
-        public IEnumerable<CreateOrderDetailDto> OrderDetailDtos { get; private set; }
+        public IEnumerable<CreateOrderDetailDto> OrderDetails { get; private set; }
 
-        public CreateOrderDto(string customerId, string shipAddress, string shipCity, string shipCountry, string shipPostalCode,
-           IEnumerable<CreateOrderDetailDto> orderDetailDtos)
-        {
-            CustomerId = customerId;
-            ShipAddress = shipAddress;
-            ShipCity = shipCity;
-            ShipCountry = shipCountry;
-            ShipPostalCode = shipPostalCode;
-            OrderDetailDtos = orderDetailDtos;
+    public CreateOrderDto(string customerId, string shipAddress, string shipCity, string shipCountry, string shipPostalCode,
+       IEnumerable<CreateOrderDetailDto> orderDetailDtos)
+    {
+        CustomerId = customerId;
+        ShipAddress = shipAddress;
+        ShipCity = shipCity;
+        ShipCountry = shipCountry;
+        ShipPostalCode = shipPostalCode;
+        OrderDetail = orderDetailDtos;
         }
     }
     #endregion
